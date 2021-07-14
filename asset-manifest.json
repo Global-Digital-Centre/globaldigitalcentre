@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/globaldigitalcentre/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/globaldigitalcentre/static/js/main.c5a9b41f.chunk.js",
+    "main.js.map": "/globaldigitalcentre/static/js/main.c5a9b41f.chunk.js.map",
+    "runtime-main.js": "/globaldigitalcentre/static/js/runtime-main.bfa6f50d.js",
+    "runtime-main.js.map": "/globaldigitalcentre/static/js/runtime-main.bfa6f50d.js.map",
+    "static/js/2.6213c1c2.chunk.js": "/globaldigitalcentre/static/js/2.6213c1c2.chunk.js",
+    "static/js/2.6213c1c2.chunk.js.map": "/globaldigitalcentre/static/js/2.6213c1c2.chunk.js.map",
+    "static/js/3.d5003d12.chunk.js": "/globaldigitalcentre/static/js/3.d5003d12.chunk.js",
+    "static/js/3.d5003d12.chunk.js.map": "/globaldigitalcentre/static/js/3.d5003d12.chunk.js.map",
+    "index.html": "/globaldigitalcentre/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/globaldigitalcentre/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6213c1c2.chunk.js.LICENSE.txt": "/globaldigitalcentre/static/js/2.6213c1c2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/globaldigitalcentre/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfa6f50d.js",
+    "static/js/2.6213c1c2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c5a9b41f.chunk.js"
+  ]
+}
